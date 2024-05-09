@@ -6,6 +6,8 @@ int main(){
     while(1){
     }
     return 0;
+
+
 }
 void intHandler(int dummy){
     if(dummy == 10){
