@@ -17,5 +17,7 @@ int main() {
 			if (j == --numero) j = 0;
 		} else if (++j == numero) j = 0;
 	}
+
+	
 	return 0;
 } 
