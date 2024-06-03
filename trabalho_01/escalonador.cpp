@@ -6,6 +6,7 @@ int main() {
 	for (auto i = 0; i < numero; i++) {
 		scanf("%u %u", &pid, &time);
 		p.push_back(std::make_pair(pid, time*1000));
+		
 	}
 	while (numero) {
 		p[j].second -= t;
