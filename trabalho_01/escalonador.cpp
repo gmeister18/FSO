@@ -9,8 +9,6 @@ int main() {
 	}
 
 
-	
-	
 	while (numero) {
 		p[j].second -= t;
 		acc += t;
